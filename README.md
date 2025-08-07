@@ -15,7 +15,7 @@ Settings and Support: Enables customization of app appearance and provides a con
 ## 3. Limitations of Service
 AllerFree is a supplementary tool and not a substitute for professional medical advice, diagnosis, or treatment. Please note the following limitations:
 
-Accuracy: The accuracy of ingredient and allergen information depends on external data sources (e.g., Barcode Lookup API, Edamam API, Open Food Facts API, AirNow API), which may contain errors, omissions, or outdated information. AllerFree does not guarantee the completeness or accuracy of the data provided.
+Accuracy: The accuracy of ingredient and allergen information depends on external data sources (e.g.,  Open Food Facts API, AirNow API), which may contain errors, omissions, or outdated information. AllerFree does not guarantee the completeness or accuracy of the data provided.
 Allergen Detection: The application may not identify all possible allergens, especially rare or highly personalized sensitivities, or those not explicitly listed in ingredient data.
 Air Quality Data: AQI information is sourced from external providers and is intended for general informational purposes only. It may not reflect real-time conditions or account for localized variations.
 No Medical Advice: AllerFree does not diagnose allergies, assess the severity of allergic reactions, or provide medical evaluations. Users should consult qualified healthcare professionals for personalized allergy management and health advice.
@@ -33,9 +33,8 @@ AllerFree, including its code, design, and content, is the intellectual property
 ## 6. Third-Party Services
 AllerFree relies on third-party APIs and services to provide its functionality, including:
 
-Barcode Lookup API for product data.
-Edamam API for food database information.
-Open Food Facts API for additional product details.
+
+Open Food Facts API for  product details.
 AirNow API for air quality data.These services are subject to their own terms of use and privacy policies, which are independent of AllerFree. The developer(s) are not responsible for the availability, accuracy, or policies of these third-party services.
 
 ## 7. Disclaimer of Warranties
@@ -43,15 +42,15 @@ AllerFree is provided "as is" without warranties of any kind, express or implied
 ## 8. Limitation of Liability
 To the fullest extent permitted by law, the developer(s) of AllerFree shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from or related to the use of the application. This includes, but is not limited to, damages resulting from allergic reactions, health complications, or reliance on inaccurate data. Users assume full responsibility for decisions made based on the application’s information.
 ## 9. Indemnification
-You agree to indemnify and hold harmless the developer(s) of AllerFree from any claims, losses, or damages, including legal fees, arising from your use of the application or violation of these Terms.
+You agree to indemnify and hold harmless the developer of AllerFree from any claims, losses, or damages, including legal fees, arising from your use of the application or violation of these Terms.
 ## 10. Changes to Terms
 The developer(s) reserve the right to modify these Terms at any time. Updated Terms will be posted in the GitHub repository or within the application. Continued use of AllerFree after such changes constitutes acceptance of the revised Terms.
 ## 11. Termination
-You may stop using AllerFree at any time by deleting the application from your device. The developer(s) may terminate or suspend access to the application at their discretion, with or without notice, for any reason, including violation of these Terms.
+You may stop using AllerFree at any time by deleting the application from your device. The developer may terminate or suspend access to the application at their discretion, with or without notice, for any reason, including violation of these Terms.
 ## 12. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction, e.g., the State of California, United States], without regard to its conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of Louisiana-United States, without regard to its conflict of law principles.
 ## 13. Contact Information
-For questions, feedback, or support regarding AllerFree, please contact us at admin@MUNCHCOMPANY.com.
+For questions, feedback, or support regarding AllerFree, please contact us at Superscorex7@gmail.com.
 
 Privacy Policy
 ## 1. Introduction
@@ -92,8 +91,8 @@ Security: We take reasonable measures to protect data stored on your device, suc
 ## 5. Data Sharing
 AllerFree does not sell, trade, or share your personal information with third parties, except as described below:
 
-Third-Party APIs: When you scan a barcode or access air quality data, the app sends barcode numbers or location coordinates to third-party APIs (e.g., Barcode Lookup, Edamam, Open Food Facts, AirNow). These APIs may have their own privacy policies, which govern their use of the data. We do not control or assume responsibility for their practices.
-Support Requests: If you contact support via email, your email address and message content will be sent to our support email (admin@MUNCHCOMPANY.com) and may be processed by your email provider.
+Third-Party APIs: When you scan a barcode or access air quality data, the app sends barcode numbers or location coordinates to third-party APIs (e.g.,  Open Food Facts, AirNow). These APIs may have their own privacy policies, which govern their use of the data. We do not control or assume responsibility for their practices.
+Support Requests: If you contact support via email, your email address and message content will be sent to our support email (Superscorex7@gmail.com) and may be processed by your email provider.
 
 ## 6. Your Rights and Choices
 You have the following rights regarding your data:
@@ -103,16 +102,16 @@ Permissions: You can manage camera and location permissions through your device�
 Opt-Out: To stop data collection, uninstall the app. No data is collected or stored outside your device.
 
 ## 7. Children’s Privacy
-AllerFree is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us at admin@MUNCHCOMPANY.com.
+AllerFree is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us at Superscorex7@gmail.com.
 ## 8. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. The updated policy will be posted in the GitHub repository or within the application. Continued use of AllerFree after such changes constitutes acceptance of the revised policy.
 ## 9. International Users
-AllerFree is developed and maintained in [Your Jurisdiction, e.g., the United States]. If you use the app from outside this jurisdiction, your data will still be stored locally on your device, but third-party APIs may process data in other regions. By using the app, you consent to the transfer of data to these third-party services as described in this policy.
+AllerFree is developed and maintained in Louisiana-United States. If you use the app from outside this jurisdiction, your data will still be stored locally on your device, but third-party APIs may process data in other regions. By using the app, you consent to the transfer of data to these third-party services as described in this policy.
 ## 10. Contact Us
-If you have questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact me at:
 
-Email: admin@MUNCHCOMPANY.com
+Email: Superscorex7@gmail.com
 
 
 
-Last Updated: April 17, 2025
+Last Updated: August 7, 2025
